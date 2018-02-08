@@ -4,3 +4,4 @@ The following is an exhaustive list of developer focused features for each of th
 * [C#](c%23.md)
 * [SQL](sql.md)
 * [Elasticsearch](elasticsearch.md)
+* [Angular](angular.md)
