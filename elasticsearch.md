@@ -1,6 +1,7 @@
-# Elasticsearch
+Document Databases
 
-## 1
+# Level 1
+## Elasticsearch
 ### Document
 * [ ] [Reading and Writing Model](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/docs-replication.html)
 * [ ] [Index](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/docs-index_.html)
@@ -39,58 +40,60 @@
 ### Mapping
 * [ ] [Field Datatypes](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/mapping-types.html)
 
-## 2
+# Level 2
+## Elasticsearch
 ### Search
 * [ ] [Suggeters](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/search-suggesters.html)
 
-## Aggregations
+### Aggregations
 * [ ] [Metrics](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/search-aggregations-metrics.html)
 * [ ] [Bucket](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/search-aggregations-bucket.html)
 * [ ] [Pipeline](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/search-aggregations-pipeline.html)
 * [ ] [Matrix](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/search-aggregations-matrix.html)
 
-## Query DSL
+### Query DSL
 * [ ] [Joining](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/joining-queries.html)
 * [ ] [Minimum Should Match](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/query-dsl-minimum-should-match.html)
 
-## Mapping
+### Mapping
 * [ ] [Meta Fields](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/mapping-fields.html)
 * [ ] [Mapping Parameters](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/mapping-params.html)
 * [ ] [Dynamic Mapping](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/dynamic-mapping.html)
 
-## Analysis
+### Analysis
 * [ ] [Analyze](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/indices-analyze.html)
 * [ ] [Normalizers](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/analysis-normalizers.html)
 * [ ] [Character Filters](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/analysis-charfilters.html)
 * [ ] [Token Filters](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/analysis-tokenfilters.html)
 * [ ] [Custom Analyzers](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/analysis-custom-analyzer.html)
 
-## 3
-## Document
+# Level 3
+## Elasticsearch
+### Document
 * [ ] [Bulk](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/docs-bulk.html)
 * [ ] [Term Vectors](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/docs-termvectors.html)
 * [ ] [Multi Term Vectors](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/docs-multi-termvectors.html)
 * [ ] [?refresh](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/docs-refresh.html)
 
-## Search
+### Search
 * [ ] [Search Template](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/search-template.html)
 * [ ] [Multi Search Template](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/multi-search-template.html)
 * [ ] [Multi Search](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/search-multi-search.html)
 
-## Query DSL
+### Query DSL
 * [ ] [Specialized](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/specialized-queries.html)
 * [ ] [Span](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/span-queries.html)
 * [ ] [Multi Term Query Rewrite](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/query-dsl-multi-term-rewrite.html)
 
-## Analysis
+### Analysis
 * [ ] [Analyze](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/indices-analyze.html)
 
-## XPack
+### XPack
 * [ ] [Explore](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/graph-explore-api.html)
 * [ ] [Machine Learning](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/ml-apis.html)
 * [ ] [Watch](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/watcher-api-put-watch.html)
 
-## Tuning
+### Tuning
 * [ ] [Search - Validate](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/search-validate.html)
 * [ ] [Search - Explain](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/search-explain.html)
 * [ ] [Search - Profile](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/search-profile.html)
@@ -103,6 +106,3 @@
 * [ ] [Disk Usage](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/tune-for-disk-usage.html)
 * [ ] [Consistent Scoring](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/consistent-scoring.html)
 * [ ] [Explain Analyze](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/_explain_analyze.html)
-
-## Management
-* [ ] [Index - Open, Close, Shrink, Split, Rollover, Force Merge](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/indices.html)
